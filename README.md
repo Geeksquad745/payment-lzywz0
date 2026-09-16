@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · RPNv3Ihg -->
-## Notification 1/2
-Round: Round 1
-To: p_iper2006@yahoo.com, p_rojas7@yahoo.com
-At: 2026-09-16 19:20:01
-Id: RPNv3Ihg
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: pac3@optonline.net, pace02448@yahoo.com
+At: 2026-09-16 19:20:15
+Id: p0HmDbv6
